@@ -12,6 +12,7 @@ struct ContentView: View {
     @State private var fact1 = ""
     @State private var fact2 = ""
 
+    // added my facts
     var body: some View {
         VStack() {
             //name
